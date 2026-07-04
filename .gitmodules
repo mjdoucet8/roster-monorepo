@@ -1,0 +1,3 @@
+[submodule "roster-site"]
+	path = roster-site
+	url = https://github.com/mjdoucet8/roster-site.git
